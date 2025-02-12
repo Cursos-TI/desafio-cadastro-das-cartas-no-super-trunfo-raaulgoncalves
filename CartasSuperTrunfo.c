@@ -7,8 +7,8 @@ int main(){
     float pib;              
     int pontosTuristicos;    
 
-        printf("Digite a populacao:\n");
-           
+        printf("Digite a população:\n");
+        scanf("%d" , populacao);
                     
 
         return 0;
